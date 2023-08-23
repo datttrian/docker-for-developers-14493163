@@ -1,1 +1,2 @@
-# docker-for-developers-14493163
+# node-mongo-docker
+A node and express docker template with Mongo
